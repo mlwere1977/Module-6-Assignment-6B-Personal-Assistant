@@ -1,0 +1,14 @@
+Hi! I'm Mukwaya Lwere, your personal assistant.
+You have 0 tasks left.
+My Mood is: neutral
+New Task added: Finish JavaScript assignment for CS81
+New Task added: Prepare slides for Friday's presentation
+New Task added: Call Mom to check in
+You have 3 tasks left, Mukwaya.
+My Mood is: productive
+Completing task for Mukwaya: Finish JavaScript assignment for CS81
+Now you have 2 tasks left, Mukwaya.
+My Mood is: accomplished
+Completing task for Mukwaya: Prepare slides for Friday's presentation
+Now you have 1 tasks left, Mukwaya.
+My Mood is: accomplished
